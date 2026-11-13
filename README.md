@@ -186,4 +186,4 @@ This repository serves as the official landing page for SQLiteStudio. The softwa
 **Get the most recent version of SQLiteStudio today!**
 
 ---
-**Last updated:** 2026-11-13 14:00:19 UTC
+**Last updated:** 2026-11-13 21:12:52 UTC
